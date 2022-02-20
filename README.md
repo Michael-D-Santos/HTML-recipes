@@ -1,2 +1,2 @@
 # odin-recipes
-I will be making a recipe page. That is all.
+This is my work for the "recipes" HTML project from The Odin Project in their "Foundations" course.
