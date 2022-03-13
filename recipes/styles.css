@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  overflow: scroll;
+  list-style-position: inside;
 }
 
 img {
