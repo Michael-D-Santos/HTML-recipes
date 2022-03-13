@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 img {
   height: 400px;
   width: 500px;
@@ -7,4 +11,3 @@ body {
   background-color: black;
   color:white;
 }
-
