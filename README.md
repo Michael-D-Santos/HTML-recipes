@@ -1,2 +1,2 @@
-# odin-recipes
-This is my work for the "recipes" HTML project from The Odin Project in their "Foundations" course.
+# HTML-recipes
+This is my attempt in building a "recipes" page in HTML.
